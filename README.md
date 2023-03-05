@@ -1,6 +1,6 @@
 # webcomp-mobility-echarging-map
 
-This project contains the map web component for the [Green Mobility South Tyrol](https://www.greenmobility.bz.it/) project.
+This project contains the map web component for the Green Mobility project.
 
 [![CI/CD](https://github.com/noi-techpark/webcomp-mobility-echarging-map/actions/workflows/main.yml/badge.svg)](https://github.com/noi-techpark/webcomp-mobility-echarging-map/actions/workflows/main.yml)
 
